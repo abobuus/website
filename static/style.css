@@ -1,0 +1,75 @@
+body {
+    background-color: rgba(248, 254, 255, 1);
+    margin-top: 200px;
+}
+
+* {
+    cursor: default;
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 21px;
+    color: rgba(37, 52, 74, 1);
+}
+
+div {
+    display: flex;
+    font-family: Liberation Sans, sans-serif;
+     font-weight: 300;
+}
+
+#page {
+    flex-direction: column;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+#page > * {
+    margin-bottom: 30px;
+}
+
+#name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    white-space: nowrap;
+    font-family: Liberation Sans, sans-serif;
+    color: rgba(37, 52, 74, 1);
+}
+
+/* #dot {
+    position: relative;
+    overflow: visible;
+    top: 10px;
+    right: 38px;
+    background-color: black;
+    width: 5px;
+    height: 5px;
+    opacity: 17%;
+}
+#coords {
+    font-family: Liberation Mono, monospace;
+    font-weight: lighter;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.icon {
+    width: 1.5rem;
+    fill: rgba(37, 52, 74, 1);
+    stroke: rgba(37, 52, 74, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+} */
