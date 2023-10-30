@@ -2,5 +2,4 @@
 
 Profile web page: https://vsukhodolov.ru/
 
-![image](https://github.com/abobuus/website/assets/122238696/6a56c03c-0bc2-4578-b6fb-3a137ba4467b)
-
+![image](https://github.com/abobuus/website/assets/122238696/b2b22871-94c4-4c99-b192-672f8ec18a6c)
